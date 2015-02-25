@@ -35,10 +35,10 @@ Steyr,King
 ЗИЛ,ММЗ 554
 ЗИЛ,ММЗ 555
 Dodge,AS Serisi
-Dodge,Sprinter груз.
+Dodge,Sprinter
 Daf,200
 Daf,3300
-Daf,400 груз.
+Daf,400
 Daf,45
 Daf,55
 Daf,65
@@ -57,16 +57,16 @@ Daf,Leyland
 Daf,LF
 Daf,TE
 Daf,XF
-Robur,LD груз.
-Robur,LO груз.
+Robur,LD
+Robur,LO
 Groz,BAW  1044
 Groz,BAW  1065
 Ashok Leyland,9016
 Astra,HD8 series
-Fiat,Doblo груз.
-Fiat,Ducato груз.
-Fiat,Fiorino груз.
-Fiat,Scudo груз.
+Fiat,Doblo
+Fiat,Ducato
+Fiat,Fiorino
+Fiat,Scudo
 Baw,BJ
 Baw,Fenix
 САЗ,3307
@@ -142,15 +142,15 @@ JAC,HFC 1045K
 МЗКТ,65151
 МАЗ-МАН,19.403
 МАЗ-МАН,540546
-УАЗ,2206 груз.
+УАЗ,2206
 УАЗ,3303
 УАЗ,33036
-УАЗ,451 груз.
-УАЗ,452 груз.
+УАЗ,451
+УАЗ,452
 УАЗ,452 Д
 УАЗ,459
-Chevrolet,Astro груз.
-Chevrolet,Express груз.
+Chevrolet,Astro
+Chevrolet,Express
 Chevrolet,P30
 International,7600
 International,9200
@@ -171,10 +171,10 @@ Ford,Cargo
 Ford,Escort van
 Ford,L-series
 Ford,LTL
-Ford,Tourneo Connect груз.
-Ford,Transit груз.
-Ford,Transit Connect груз.
-Mazda,E-series груз.
+Ford,Tourneo Connect
+Ford,Transit
+Ford,Transit Connect
+Mazda,E-series
 Mazda,Titan
 IFA (ИФА),B-50
 IFA (ИФА),IFA
@@ -182,24 +182,24 @@ IFA (ИФА),L
 IFA (ИФА),Multicar
 IFA (ИФА),W50
 IFA (ИФА),W60
-LDV,Convoy груз.
+LDV,Convoy
 LDV,Maxus
 Mitsubishi,Canter
-Mitsubishi,L 300 груз.
-Mitsubishi,L 400 груз.
-Peugeot,Bipper груз.
-Peugeot,Boxer груз.
-Peugeot,Expert груз.
-Peugeot,J-5 груз.
-Peugeot,J9 груз.
-Peugeot,Partner груз.
+Mitsubishi,L 300
+Mitsubishi,L 400
+Peugeot,Bipper
+Peugeot,Boxer
+Peugeot,Expert
+Peugeot,J-5
+Peugeot,J9
+Peugeot,Partner
 Sterling,Acterra
 MAN-VW,150
 MAN-VW,8-150
-Hyundai,H 100 груз.
-Hyundai,H 200 груз.
-Hyundai,H 300 груз.
-Hyundai,H1 груз.
+Hyundai,H 100
+Hyundai,H 200
+Hyundai,H 300
+Hyundai,H1
 Hyundai,HD
 Hyundai,HD 120
 Hyundai,HD 170
@@ -304,13 +304,13 @@ Skoda,706
 Урал,Урал
 Star,266
 Star,742
-Volkswagen,Caddy груз.
-Volkswagen,Crafter груз.
+Volkswagen,Caddy
+Volkswagen,Crafter
 Volkswagen,L 80
-Volkswagen,LT груз.
+Volkswagen,LT
 Volkswagen,T4 (Transporter) груз
 Volkswagen,T5 (Transporter) груз
-ЕРАЗ,762 груз.
+ЕРАЗ,762
 Mack,CH
 Mack,CX
 КрАЗ,250
@@ -329,7 +329,7 @@ Mack,CX
 КрАЗ,6510
 КрАЗ,65101
 КрАЗ,КрАЗ
-GMC,Vandura груз.
+GMC,Vandura
 Yuejin,NJ 1028
 Yuejin,NJ 1062
 ЛиАЗ,100
@@ -404,7 +404,7 @@ TATA,T 713
 ГАЗ,5203
 ГАЗ,5227
 ГАЗ,5228
-ГАЗ,53 груз.
+ГАЗ,53
 ГАЗ,5301
 ГАЗ,5302
 ГАЗ,5312
@@ -436,12 +436,12 @@ Dongfeng,DFL
 Dongfeng,EQ1032
 Dongfeng,EQ1044
 Dongfeng,EQ1074
-Opel,Arena груз.
+Opel,Arena
 Opel,Astra Van
-Opel,Combo груз.
-Opel,Movano груз.
-Opel,Vivaro груз.
-Opel,Вedford груз.
+Opel,Combo
+Opel,Movano
+Opel,Vivaro
+Opel,Вedford
 MAN,10.150
 MAN,10.153
 MAN,10.156
@@ -558,7 +558,7 @@ MAN,8
 MAN,8.113
 MAN,8.136
 MAN,8.145
-MAN,8.150 груз.
+MAN,8.150
 MAN,8.153
 MAN,8.155
 MAN,8.163
@@ -576,7 +576,7 @@ MAN,F 2000
 MAN,F 90
 MAN,FE
 MAN,L 2000
-MAN,L груз.
+MAN,L
 MAN,LE
 MAN,LE 10.180
 MAN,LE 140
@@ -614,8 +614,8 @@ ERF,420
 ERF,ECX
 Mercedes-Benz,1113
 Mercedes-Benz,1114
-Mercedes-Benz,1117 груз.
-Mercedes-Benz,1120 груз.
+Mercedes-Benz,1117
+Mercedes-Benz,1120
 Mercedes-Benz,1213
 Mercedes-Benz,1217
 Mercedes-Benz,1220
@@ -656,18 +656,18 @@ Mercedes-Benz,2538
 Mercedes-Benz,2544
 Mercedes-Benz,3331
 Mercedes-Benz,4143
-Mercedes-Benz,507 груз.
-Mercedes-Benz,508 груз.
-Mercedes-Benz,510 груз.
+Mercedes-Benz,507
+Mercedes-Benz,508
+Mercedes-Benz,510
 Mercedes-Benz,608
-Mercedes-Benz,609 груз.
-Mercedes-Benz,611 груз.
-Mercedes-Benz,709 груз.
-Mercedes-Benz,711 груз.
-Mercedes-Benz,809 груз.
-Mercedes-Benz,811 груз.
-Mercedes-Benz,813 груз.
-Mercedes-Benz,814 груз.
+Mercedes-Benz,609
+Mercedes-Benz,611
+Mercedes-Benz,709
+Mercedes-Benz,711
+Mercedes-Benz,809
+Mercedes-Benz,811
+Mercedes-Benz,813
+Mercedes-Benz,814
 Mercedes-Benz,817
 Mercedes-Benz,820
 Mercedes-Benz,914
@@ -676,65 +676,65 @@ Mercedes-Benz,Actros
 Mercedes-Benz,Atego 
 Mercedes-Benz,Axor
 Mercedes-Benz,Econic
-Mercedes-Benz,MB груз.
-Mercedes-Benz,O 309 груз.
-Mercedes-Benz,Sprinter груз..
-Mercedes-Benz,Sprinter 208 груз.
-Mercedes-Benz,Sprinter 209 груз.
-Mercedes-Benz,Sprinter 210 груз.
-Mercedes-Benz,Sprinter 211 груз.
-Mercedes-Benz,Sprinter 212 груз.
-Mercedes-Benz,Sprinter 213 груз.
-Mercedes-Benz,Sprinter 214 груз.
-Mercedes-Benz,Sprinter 215 груз.
-Mercedes-Benz,Sprinter 216 груз.
-Mercedes-Benz,Sprinter 308 груз.
-Mercedes-Benz,Sprinter 309 груз.
-Mercedes-Benz,Sprinter 310 груз.
-Mercedes-Benz,Sprinter 311 груз.
-Mercedes-Benz,Sprinter 312 груз.
-Mercedes-Benz,Sprinter 313 груз.
-Mercedes-Benz,Sprinter 314 груз.
-Mercedes-Benz,Sprinter 315 груз.
-Mercedes-Benz,Sprinter 316 груз.
-Mercedes-Benz,Sprinter 318 груз.
-Mercedes-Benz,Sprinter 319 груз.
-Mercedes-Benz,Sprinter 408 груз.
-Mercedes-Benz,Sprinter 410 груз.
-Mercedes-Benz,Sprinter 411 груз.
-Mercedes-Benz,Sprinter 412 груз.
-Mercedes-Benz,Sprinter 413 груз.
-Mercedes-Benz,Sprinter 414  груз.
-Mercedes-Benz,Sprinter 415 груз.
-Mercedes-Benz,Sprinter 416 груз.
-Mercedes-Benz,Sprinter 418 груз.
-Mercedes-Benz,Sprinter 419 груз.
-Mercedes-Benz,Sprinter 509 груз.
-Mercedes-Benz,Sprinter 511 груз.
-Mercedes-Benz,Sprinter 513 груз.
-Mercedes-Benz,Sprinter 515 груз.
-Mercedes-Benz,Sprinter 516 груз.
-Mercedes-Benz,Sprinter 518 груз.
-Mercedes-Benz,Sprinter 519 груз.
-Mercedes-Benz,Sprinter 616 груз.
-Mercedes-Benz,Sprinter груз.
-Mercedes-Benz,T1 груз.
-Mercedes-Benz,207 груз.
-Mercedes-Benz,208 груз.
-Mercedes-Benz,209 груз.
-Mercedes-Benz,210 груз.
-Mercedes-Benz,307 груз.
-Mercedes-Benz,308 груз.
-Mercedes-Benz,309 груз.
-Mercedes-Benz,310 груз.
-Mercedes-Benz,407 груз.
-Mercedes-Benz,408 груз.
-Mercedes-Benz,409 груз.
-Mercedes-Benz,410 груз.
-Mercedes-Benz,T2 груз.
+Mercedes-Benz,MB
+Mercedes-Benz,O 309
+Mercedes-Benz,Sprinter.
+Mercedes-Benz,Sprinter 208
+Mercedes-Benz,Sprinter 209
+Mercedes-Benz,Sprinter 210
+Mercedes-Benz,Sprinter 211
+Mercedes-Benz,Sprinter 212
+Mercedes-Benz,Sprinter 213
+Mercedes-Benz,Sprinter 214
+Mercedes-Benz,Sprinter 215
+Mercedes-Benz,Sprinter 216
+Mercedes-Benz,Sprinter 308
+Mercedes-Benz,Sprinter 309
+Mercedes-Benz,Sprinter 310
+Mercedes-Benz,Sprinter 311
+Mercedes-Benz,Sprinter 312
+Mercedes-Benz,Sprinter 313
+Mercedes-Benz,Sprinter 314
+Mercedes-Benz,Sprinter 315
+Mercedes-Benz,Sprinter 316
+Mercedes-Benz,Sprinter 318
+Mercedes-Benz,Sprinter 319
+Mercedes-Benz,Sprinter 408
+Mercedes-Benz,Sprinter 410
+Mercedes-Benz,Sprinter 411
+Mercedes-Benz,Sprinter 412
+Mercedes-Benz,Sprinter 413
+Mercedes-Benz,Sprinter 414 
+Mercedes-Benz,Sprinter 415
+Mercedes-Benz,Sprinter 416
+Mercedes-Benz,Sprinter 418
+Mercedes-Benz,Sprinter 419
+Mercedes-Benz,Sprinter 509
+Mercedes-Benz,Sprinter 511
+Mercedes-Benz,Sprinter 513
+Mercedes-Benz,Sprinter 515
+Mercedes-Benz,Sprinter 516
+Mercedes-Benz,Sprinter 518
+Mercedes-Benz,Sprinter 519
+Mercedes-Benz,Sprinter 616
+Mercedes-Benz,Sprinter
+Mercedes-Benz,T1
+Mercedes-Benz,207
+Mercedes-Benz,208
+Mercedes-Benz,209
+Mercedes-Benz,210
+Mercedes-Benz,307
+Mercedes-Benz,308
+Mercedes-Benz,309
+Mercedes-Benz,310
+Mercedes-Benz,407
+Mercedes-Benz,408
+Mercedes-Benz,409
+Mercedes-Benz,410
+Mercedes-Benz,T2
 Mercedes-Benz,Unimog
-Mercedes-Benz,Vario груз.
-Mercedes-Benz,Vito груз.
+Mercedes-Benz,Vario
+Mercedes-Benz,Vito
 Foton,AuLion
 Foton,Auman
 Foton,BJ
@@ -747,7 +747,7 @@ Hino,FA
 Eagle,MD
 Isuzu,ELF
 Isuzu,FVR
-Isuzu,Midi груз.
+Isuzu,Midi
 Isuzu,NKR
 Isuzu,NLR
 Isuzu,NMR
@@ -762,7 +762,7 @@ FAW,1051
 FAW,1061
 FAW,3110
 FAW,3253
-FAW,6371 груз.
+FAW,6371
 FAW,CA
 Ginaf,M
 Ginaf,X
@@ -771,50 +771,50 @@ Kia,Bongo
 Kia,K2500
 Kia,K2700
 Kia,K3000
-Kia,Pregio груз.
+Kia,Pregio
 Daewoo,FSO
-Daewoo,Lublin груз.
+Daewoo,Lublin
 Богдан,DF
-Renault,Dokker груз.
-Renault,Kangoo груз.
+Renault,Dokker
+Renault,Kangoo
 Renault,Kerax
 Renault,Lander
 Renault,Magnum
 Renault,Major
 Renault,Manager
-Renault,Mascott груз.
-Renault,Master груз.
+Renault,Mascott
+Renault,Master
 Renault,Maxity
-Renault,Messenger груз.
+Renault,Messenger
 Renault,Midliner
 Renault,Midlum
 Renault,Premium
 Renault,Premium Lander
-Renault,Trafic груз.
+Renault,Trafic
 Nissan,Atlas
 Nissan,Atleon
 Nissan,Cabstar
 Nissan,Eco
 Nissan,Interstar
 Nissan,Kubistar
-Nissan,Primastar груз.
-Nissan,Serena груз.
+Nissan,Primastar
+Nissan,Serena
 Nissan,Trade
 Nissan,UD
-Nissan,Vanette груз.
+Nissan,Vanette
 Toyota,Dyna
-Toyota,Hiace груз.
-Citroen,Berlingo груз.
-Citroen,C25 груз.
-Citroen,C35 груз.
-Citroen,Jumper груз.
-Citroen,Jumpy груз.
-Citroen,Nemo груз.
+Toyota,Hiace
+Citroen,Berlingo
+Citroen,C25
+Citroen,C35
+Citroen,Jumper
+Citroen,Jumpy
+Citroen,Nemo
 Zuk,A-06
 Zuk,A-07
-Zuk,A-11 груз.
+Zuk,A-11
 Iveco,Cursor
-Iveco,Daily груз.
+Iveco,Daily
 Iveco,EuroCargo
 Iveco,EuroStar
 Iveco,EuroTech
@@ -824,7 +824,7 @@ Iveco,ML
 Iveco,Stralis
 Iveco,Tector
 Iveco,Trakker
-Iveco,TurboDaily груз.
+Iveco,TurboDaily
 Iveco,TurboStar
 Iveco,TurboTech
 Iveco,TurboZeta

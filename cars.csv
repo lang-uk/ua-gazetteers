@@ -85,7 +85,6 @@ Audi,S6
 Audi,S7 Sportback
 Audi,S8
 Audi,SQ
-Audi,TT (все)
 Audi,TT
 Audi,TTS
 Audi,V8
@@ -103,7 +102,6 @@ Bentley,Flying Spur
 Bentley,Mulsanne
 Bio Auto,evA-4
 Bio Auto,evA-5
-BMW,1 Series (все)
 BMW,116
 BMW,118
 BMW,120
@@ -111,7 +109,6 @@ BMW,125
 BMW,130
 BMW,135
 BMW,2 Series
-BMW,3 Series (все)
 BMW,3 Series GT
 BMW,315
 BMW,316
@@ -125,11 +122,9 @@ BMW,328
 BMW,330
 BMW,335
 BMW,340
-BMW,4 Series (все)
 BMW,420
 BMW,428
 BMW,435
-BMW,5 Series (все)
 BMW,5 Series GT
 BMW,518
 BMW,520
@@ -142,13 +137,11 @@ BMW,535
 BMW,540
 BMW,545
 BMW,550
-BMW,6 Series (все)
 BMW,630
 BMW,635
 BMW,640
 BMW,645
 BMW,650
-BMW,7 Series (все)
 BMW,725
 BMW,728
 BMW,730
@@ -158,16 +151,13 @@ BMW,740
 BMW,745
 BMW,750
 BMW,760
-BMW,8 Series (все)
 BMW,Alpina
 BMW,I3
 BMW,I8
-BMW,M (Все)
 BMW,M3
 BMW,M4
 BMW,M5
 BMW,M6
-BMW,X series (все)
 BMW,X1
 BMW,X3
 BMW,X4
@@ -240,8 +230,7 @@ Chery,QQ
 Chery,SQR
 Chery,Tiggo
 Chevrolet,Alero
-Chevrolet,Astro груз.
-Chevrolet,Astro пасс.
+Chevrolet,Astro
 Chevrolet,Avalanche
 Chevrolet,Aveo
 Chevrolet,Bel Air
@@ -262,8 +251,7 @@ Chevrolet,Epica
 Chevrolet,Equinox
 Chevrolet,Evanda
 Chevrolet,Explorer
-Chevrolet,Express груз.
-Chevrolet,Express пасс.
+Chevrolet,Express
 Chevrolet,Geo Storm
 Chevrolet,HHR
 Chevrolet,Impala
@@ -316,8 +304,7 @@ Chrysler,Town &amp; Country
 Chrysler,Vision
 Chrysler,Voyager
 Citroen,AX
-Citroen,Berlingo груз.
-Citroen,Berlingo пасс.
+Citroen,Berlingo
 Citroen,BX
 Citroen,C-Crosser
 Citroen,C-Elysee
@@ -338,12 +325,9 @@ Citroen,DS5
 Citroen,Evasion
 Citroen,Grand C4 Picasso
 Citroen,GSA
-Citroen,Jumper груз.
-Citroen,Jumper пасс.
-Citroen,Jumpy груз.
-Citroen,Jumpy пасс.
-Citroen,Nemo груз.
-Citroen,Nemo пасс.
+Citroen,Jumper
+Citroen,Jumpy
+Citroen,Nemo
 Citroen,Oltcit
 Citroen,Saxo
 Citroen,Visa
@@ -370,7 +354,7 @@ Daewoo,Kalos
 Daewoo,Lacetti
 Daewoo,Lanos
 Daewoo,Leganza
-Daewoo,Lublin груз.
+Daewoo,Lublin
 Daewoo,Matiz
 Daewoo,Musso
 Daewoo,Nexia
@@ -422,8 +406,7 @@ Dodge,Viper
 Dongfeng,EQ1021
 Dongfeng,EQ6380
 Eagle,Talon
-FAW,6371 груз.
-FAW,6371 пасс.
+FAW,6371
 FAW,Besturn
 FAW,V2
 FAW,V5
@@ -456,14 +439,11 @@ Fiat,Cinquecento
 Fiat,Coupe
 Fiat,Croma
 Fiat,Doblo Panorama
-Fiat,Doblo груз.
-Fiat,Doblo пасс.
+Fiat,Doblo
 Fiat,Ducato
-Fiat,Ducato груз.
-Fiat,Ducato пасс.
+Fiat,Ducato
 Fiat,Duna
-Fiat,Fiorino груз.
-Fiat,Fiorino пасс.
+Fiat,Fiorino
 Fiat,Freemont
 Fiat,FSO Polonez
 Fiat,Grande Punto
@@ -478,13 +458,11 @@ Fiat,QUBO
 Fiat,Regata
 Fiat,Ritmo
 Fiat,Scudo
-Fiat,Scudo груз.
-Fiat,Scudo пасс.
 Fiat,Seicento
 Fiat,Siena
 Fiat,Simca
 Fiat,Stilo
-Fiat,Talento пасс.
+Fiat,Talento
 Fiat,Tempra
 Fiat,Tipo
 Fiat,Ulysse
@@ -551,19 +529,14 @@ Ford,Taunus
 Ford,Taurus
 Ford,Tempo
 Ford,Thunderbird
-Ford,Tourneo Connect пасс.
-Ford,Tourneo Connect груз.
+Ford,Tourneo Connect
 Ford,Tourneo Custom
 Ford,Transit Chassis
-Ford,Transit Connect
-Ford,Transit Connect пасс.
-Ford,Transit Connect груз.
 Ford,Transit Custom
 Ford,Transit Van
 Ford,Windstar
-Ford,Т
-Ford,Transit груз.
-Ford,Transit пасс.
+Ford,T
+Ford,Transit
 FSO,Caro
 FSO,Polonez
 FUQI,FQ
@@ -599,7 +572,7 @@ GMC,Savana
 GMC,Sierra
 GMC,Suburban
 GMC,Terrain
-GMC,Vandura груз.
+GMC,Vandura
 GMC,Yukon
 Gonow,Jetstar
 Gonow,Troy Suv
@@ -682,13 +655,10 @@ Hyundai,Genesis
 Hyundai,Getz
 Hyundai,Grand Santa Fe
 Hyundai,Grandeur
-Hyundai,H 100 груз.
-Hyundai,H 100 пасс.
-Hyundai,H 200 груз.
-Hyundai,H 200 пасс.
-Hyundai,H 300 груз.
-Hyundai,H1 груз.
-Hyundai,H1 пасс.
+Hyundai,H 100
+Hyundai,H 200
+Hyundai,H 300
+Hyundai,H1
 Hyundai,i10
 Hyundai,i20
 Hyundai,i30 
@@ -724,14 +694,13 @@ Isuzu,Ascender
 Isuzu,Aska
 Isuzu,D-Max
 Isuzu,Gemini
-Isuzu,Midi груз.
-Isuzu,Midi пасс.
+Isuzu,Midi
 Isuzu,Piazza
 Isuzu,Rodeo
 Isuzu,Trooper
 Isuzu,VehiCross
 Iveco,Daily 4x4
-Iveco,Daily пасс.
+Iveco,Daily
 Iveco,Unic
 JAC,J2
 JAC,J5
@@ -780,8 +749,7 @@ Kia,Mohave
 Kia,Opirus
 Kia,Optima
 Kia,Picanto
-Kia,Pregio груз.
-Kia,Pregio пасс.
+Kia,Pregio
 Kia,Pride
 Kia,Pro Ceed
 Kia,Retona
@@ -878,8 +846,7 @@ Mazda,CX-5
 Mazda,CX-7
 Mazda,CX-9
 Mazda,Demio
-Mazda,E-series груз.
-Mazda,E-series пасс.
+Mazda,E-series
 Mazda,Eunos
 Mazda,Familia
 Mazda,Millenia
@@ -1007,8 +974,7 @@ Mercedes-Benz,GLK 250
 Mercedes-Benz,GLK 280
 Mercedes-Benz,GLK 300
 Mercedes-Benz,GLK 350
-Mercedes-Benz,MB груз.
-Mercedes-Benz,MB пасс.
+Mercedes-Benz,MB
 Mercedes-Benz,ML-Class
 Mercedes-Benz,ML 230
 Mercedes-Benz,ML 250
@@ -1069,17 +1035,16 @@ Mercedes-Benz,SLK 350
 Mercedes-Benz,SLK 55 AMG
 Mercedes-Benz,SLS-Class
 Mercedes-Benz,Smart
-Mercedes-Benz,Sprinter пас.
-Mercedes-Benz,Sprinter 208 пасс.
-Mercedes-Benz,Sprinter 210 пасс.
-Mercedes-Benz,Sprinter 211 пасс.
-Mercedes-Benz,Sprinter 212 пасс.
-Mercedes-Benz,Sprinter 213 пасс.
-Mercedes-Benz,Sprinter 308 пасс.
-Mercedes-Benz,Sprinter 313 пасс.
-Mercedes-Benz,Sprinter 315 пасс.
-Mercedes-Benz,Sprinter 316 пасс.
-Mercedes-Benz,Sprinter 318 пасс.
+Mercedes-Benz,Sprinter 208
+Mercedes-Benz,Sprinter 210
+Mercedes-Benz,Sprinter 211
+Mercedes-Benz,Sprinter 212
+Mercedes-Benz,Sprinter 213
+Mercedes-Benz,Sprinter 308
+Mercedes-Benz,Sprinter 313
+Mercedes-Benz,Sprinter 315
+Mercedes-Benz,Sprinter 316
+Mercedes-Benz,Sprinter 318
 Mercedes-Benz,V-Class
 Mercedes-Benz,V 200
 Mercedes-Benz,V 220
@@ -1087,14 +1052,12 @@ Mercedes-Benz,V 230
 Mercedes-Benz,V 250
 Mercedes-Benz,V 280
 Mercedes-Benz,Vaneo
-Mercedes-Benz,Viano пасс.
+Mercedes-Benz,Viano
 Mercedes-Benz,Vito
-Mercedes-Benz,Vito груз.
-Mercedes-Benz,Vito пасс.
-Mercedes-Benz,Sprinter 211 груз.
-Mercedes-Benz,Sprinter 213 груз.
-Mercedes-Benz,Sprinter 308 груз.
-Mercedes-Benz,Sprinter 318 груз.
+Mercedes-Benz,Sprinter 211
+Mercedes-Benz,Sprinter 213
+Mercedes-Benz,Sprinter 308
+Mercedes-Benz,Sprinter 318
 Mercury,Cougar
 Mercury,Grand Marquis
 Mercury,Mystique
@@ -1134,10 +1097,8 @@ Mitsubishi,Galant
 Mitsubishi,Grandis
 Mitsubishi,i-MiEV
 Mitsubishi,L 200
-Mitsubishi,L 300 груз.
-Mitsubishi,L 300 пасс.
-Mitsubishi,L 400 груз.
-Mitsubishi,L 400 пасс.
+Mitsubishi,L 300
+Mitsubishi,L 400
 Mitsubishi,Lancer
 Mitsubishi,Lancer Evolution
 Mitsubishi,Lancer X
@@ -1209,8 +1170,7 @@ Nissan,Pickup
 Nissan,Pixo
 Nissan,Prairie
 Nissan,Presea
-Nissan,Primastar груз.
-Nissan,Primastar пасс.
+Nissan,Primastar
 Nissan,Primera
 Nissan,Pulsar
 Nissan,Qashqai
@@ -1219,8 +1179,7 @@ Nissan,Quest
 Nissan,R'nessa
 Nissan,Rogue
 Nissan,Sentra
-Nissan,Serena груз.
-Nissan,Serena пасс.
+Nissan,Serena
 Nissan,Silvia
 Nissan,Skyline
 Nissan,Stanza
@@ -1231,8 +1190,7 @@ Nissan,TIIDA
 Nissan,Tino
 Nissan,Titan
 Nissan,Urvan
-Nissan,Vanette груз.
-Nissan,Vanette пасс.
+Nissan,Vanette
 Nissan,Wingroad
 Nissan,X-Terra
 Nissan,X-Trail
@@ -1245,7 +1203,7 @@ Oldsmobile,Royal
 Opel, Antara
 Opel,Admiral
 Opel,Agila
-Opel,Arena груз.
+Opel,Arena
 Opel,Ascona
 Opel,Astra
 Opel,Astra F
@@ -1254,8 +1212,7 @@ Opel,Astra H
 Opel,Astra J
 Opel,Calibra
 Opel,Campo
-Opel,Combo груз.
-Opel,Combo пасс.
+Opel,Combo
 Opel,Commodore
 Opel,Corsa
 Opel,Frontera
@@ -1267,7 +1224,7 @@ Opel,Meriva
 Opel,Mokka
 Opel,Monterey
 Opel,Monza
-Opel,Movano пасс.
+Opel,Movano
 Opel,Olimpia
 Opel,Omega
 Opel,Rekord
@@ -1281,8 +1238,7 @@ Opel,Vectra
 Opel,Vectra A
 Opel,Vectra B
 Opel,Vectra C
-Opel,Vivaro груз.
-Opel,Vivaro пасс.
+Opel,Vivaro
 Opel,Zafira
 Packard,One Twenty
 Peg-Perego,Ranger
@@ -1316,17 +1272,13 @@ Peugeot,605
 Peugeot,607
 Peugeot,806
 Peugeot,807
-Peugeot,Bipper груз.
-Peugeot,Bipper пасс.
+Peugeot,Bipper
 Peugeot,Boxer
-Peugeot,Boxer груз.
-Peugeot,Boxer пасс.
-Peugeot,Expert груз.
-Peugeot,Expert пасс.
+Peugeot,Boxer
+Peugeot,Expert
 Peugeot,G 5
 Peugeot,Karsan
-Peugeot,Partner груз.
-Peugeot,Partner пасс.
+Peugeot,Partner
 Peugeot,Ranch
 Peugeot,RCZ
 Plymouth,Laser
@@ -1372,7 +1324,7 @@ Renault,5
 Renault,9
 Renault,Chamade
 Renault,Clio
-Renault,Dokker пасс.
+Renault,Dokker
 Renault,Duster
 Renault,Espace
 Renault,Express
@@ -1380,15 +1332,13 @@ Renault,Fluence
 Renault,Fuego
 Renault,Grand Espace
 Renault,Grand Scenic
-Renault,Kangoo груз.
-Renault,Kangoo пасс.
+Renault,Kangoo
 Renault,Koleos
 Renault,Laguna
 Renault,Latitude
 Renault,Lodgy
 Renault,Logan
-Renault,Master груз.
-Renault,Master пасс.
+Renault,Master
 Renault,Megane
 Renault,Megane RS
 Renault,Modus
@@ -1400,8 +1350,7 @@ Renault,Sandero StepWay
 Renault,Scenic
 Renault,Symbol
 Renault,Thalia
-Renault,Trafic груз.
-Renault,Trafic пасс.
+Renault,Trafic
 Renault,Twingo
 Renault,Twizy
 Renault,Vel Satis
@@ -1591,12 +1540,10 @@ Toyota,F
 Toyota,FJ Cruiser
 Toyota,Fortuner
 Toyota,GT 86
-Toyota,Hiace груз.
-Toyota,Hiace пасс.
+Toyota,Hiace
 Toyota,Highlander
 Toyota,Hilux
 Toyota,IQ
-Toyota,Land Cruiser (все)
 Toyota,Land Cruiser 100
 Toyota,Land Cruiser 105
 Toyota,Land Cruiser 200
@@ -1649,8 +1596,7 @@ Volkswagen,Amarok
 Volkswagen,Beetle
 Volkswagen,Bora
 Volkswagen,Caddy
-Volkswagen,Caddy груз.
-Volkswagen,Caddy пасс.
+Volkswagen,Caddy
 Volkswagen,Caravella
 Volkswagen,Corrado
 Volkswagen,Cross
@@ -1677,7 +1623,6 @@ Volkswagen,Kafer
 Volkswagen,Lupo
 Volkswagen,Multivan
 Volkswagen,New Beetle
-Volkswagen,Passat (все)
 Volkswagen,Passat Alltrack
 Volkswagen,Passat B1
 Volkswagen,Passat B2
@@ -1698,17 +1643,12 @@ Volkswagen,T1 (Transporter)
 Volkswagen,T2 (Transporter)
 Volkswagen,T3 (Transporter)
 Volkswagen,T4
-Volkswagen,T4 (Transporter) груз
-Volkswagen,T4 (Transporter) пасс.
 Volkswagen,T5
-Volkswagen,T5 (Transporter) пасс.
-Volkswagen,T5 (Transporter) груз
 Volkswagen,Tiguan
 Volkswagen,Touareg
 Volkswagen,Touran
 Volkswagen,Vento
-Volkswagen,LT груз.
-Volkswagen,LT пасс.
+Volkswagen,LT
 Volvo,142
 Volvo,144
 Volvo,164
@@ -1939,7 +1879,7 @@ ZX,LandMark
 УАЗ,3962
 УАЗ,451
 УАЗ,451Д
-УАЗ,452 пасс.
+УАЗ,452
 УАЗ,452П
 УАЗ,469
 УАЗ,469Б
